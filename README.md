@@ -1,5 +1,9 @@
 # ReservationSalles
 
+![Licence MIT](https://img.shields.io/badge/licence-MIT-blue.svg)
+![Java](https://img.shields.io/badge/java-23-red.svg)
+![Maven](https://img.shields.io/badge/maven-3.6.3-brightgreen.svg)
+
 **Version :** 1.0  
 **Licence :** MIT
 
