@@ -71,12 +71,12 @@
             <artifactId>jboss-logging</artifactId>
             <version>3.4.3.Final</version>
         </dependency>
-        
-        <!-- MySQL Connector/J pour la Connexion à MySQL -->
+
+        <!-- PostgreSQL JDBC Driver pour la Connexion à PostgreSQL -->
         <dependency>
-            <groupId>mysql</groupId>
-            <artifactId>mysql-connector-java</artifactId>
-            <version>8.0.33</version>
+            <groupId>org.postgresql</groupId>
+            <artifactId>postgresql</artifactId>
+            <version>42.7.4</version>
         </dependency>
         
         <!-- JUnit 5 pour les Tests -->
